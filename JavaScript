@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Layer</title>
+<style type="text/css">
+div {
+position: absolute;
+left: 250px;
+top: 200px;
+background-color: #f1f1f1;
+width: 280px;
+padding: 10px;
+color: black;
+border: cyan 2px dashed;
+display: none;
+}
+</style>
+
+<script language="JavaScript">
+function setVisibility(id) {
+if(document.getElement('bt1').value=='Hide Layer'){
+document.getElement('bt1').value = 'Show Layer';
+document.getElement(id).style.display = 'none';
+}else{
+document.getElement('bt1').value = 'Hide Layer';
+document.getElement(id).style.display = 'inline';
+}
+}
+
+</script>
+</head>
+<body>
+
+<input type=button name=type id='bt1' value='Show Layer' onclick="setVisibility('sub3');";> 
+
+<div id="sub3">Message Box</div>
+<br><br>
+</body>
+</html>

@@ -130,8 +130,8 @@ function googleTranslateElementInit() {
         <br />
         <br />
         <br />
-       
-       
+        <div id="myDiv" onClick="divFunction()">CLICK ME</div>
+         
         <h1 style="color:cyan; font-size: 45px">~We heard you liked literature~</h1>
         <br />
         <br />
@@ -151,4 +151,4 @@ function googleTranslateElementInit() {
             </h5>
         </footer>
     </body>
-</html>
+</html>e

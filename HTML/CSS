@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>Comic Market 87 Cosplay</title>
+       <style>
+       html{
+           font-family: serif, sans-serif;
+       }
+       #weblogo{
+           position: fixed;
+           top: 0px;
+           left: 0px;
+       }
+       #mainhead{
+           background-color: #CABABB;
+               padding-left: 50px; 
+               padding-top: 9px;
+               padding-bottom: 12px; 
+               padding: 9px 0 18px 50px;
+               text-align:center;
+               width:100%;
+           
+       }
+        p.amain { 
+                text-decoration: none;
+                padding: 20px;
+                color: white;
+                text-transform: uppercase;
+            } 
+            
+        p.amain:hover { 
+            color: gold;
+            background-color: black;
+        }
+       .header{
+           display: inline;
+           font-size: 20px;
+           padding: 3px;
+           margin: 5px;
+           border: solid black;
+           font-family: "Times New Roman", Times, sans-serif;
+           text-align: center;
+           
+       }
+       body{
+           text-align: center;
+          background-color: #6B6B76;
+       }
+       aside{
+           float: right;
+           border: dotted silver;
+       }
+       
+    #title {
+        text-align:center;
+        padding-left:385;
+        font-size:24px;
+        font-style: italic;
+        font-family: vladimir script;
+        
+    }
+    #flagpic{
+        float: left;
+        padding: 10px;
+    }
+    p.content{
+        font-size: 20px;
+        position: relative;
+        left: 450px;
+        text-align: center;
+        width: 50%;
+    }
+    a.wiki{
+        color: blue;
+        
+    }
+    #google_translate_element{
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        background-color: cyan;
+    }
+    footer{
+        position: relative;
+        top: 500px;
+        text-align: center;
+        background: black 100%;
+        color: white;
+    }
+           
+       </style>
+       <meta name="google-translate-customization" content="181e54360b6873b3-15ad047586178c36-g4910705d4242403c-35">
+    </head>
+    <body>
+    <div id="title"><h1>From Literature To <strong>CODE.</strong>
+        <br />
+        by Joshua Lee and Gurleen
+        </h1>
+        </div>
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+    <img src="http://fc08.deviantart.net/fs70/f/2010/065/5/9/Neo_Zeon_UC0096_by_DisAstranagant.png" width="90" height="70" id="weblogo" alt="Neo Zeon Logo from Gundam"/> 
+        <header id="mainhead">
+         <p class="amain">Cue the lines!</p>
+        </header>
+        <aside>
+            <p>Inspirational Articles</p>
+            <h4><a href="https://campustechnology.com/articles/2013/12/03/is-tech-changing-the-way-students-write.aspx">
+            <img src="http://lh3.ggpht.com/-nsGfO7iCWlc/VPMYcZlHxsI/AAAAAAAAIPs/Lqd_xGLb6n8/book-and-pen.jpg?imgmax=0" width="100px" height="100px"/>
+            <br />
+            Cool Article #1
+            </a></h4>
+            
+            <h4><a href="https://otakumode.com/shop/540e5a5514eb073547d2b4e4">
+            <img src="http://lh3.ggpht.com/-nsGfO7iCWlc/VPMYcZlHxsI/AAAAAAAAIPs/Lqd_xGLb6n8/book-and-pen.jpg?imgmax=0" width="100px" height="100px"/>
+            <br />
+            Cool Article #2
+            </a></h4>
+             
+             <h4><a href="https://otakumode.com/shop/54acdd098a1c7cf942fd4fe7">
+            <img src="http://lh3.ggpht.com/-nsGfO7iCWlc/VPMYcZlHxsI/AAAAAAAAIPs/Lqd_xGLb6n8/book-and-pen.jpg?imgmax=0" width="100px" height="100px"/>
+            <br />
+            Cool Article #3
+            </a></h4>
+        </aside>
+        <br />
+        <br />
+        <br />
+       
+       
+        <h1 style="color:cyan; font-size: 45px">~We heard you liked literature~</h1>
+        <br />
+        <br />
+        <br />
+        <p class="content"></p>
+        <iframe width="420" height="315" src="https://www.youtube.com/embed/HgzGwKwLmgM" frameborder="0" allowfullscreen></iframe>
+       <br />
+       <br />
+       <br />
+        <footer>
+            <h5>
+            Copyright 2015
+            <br />
+            BASE
+            <br />
+            Mr. Lee claims ownership of only the article text itself NOTHING else!
+            </h5>
+        </footer>
+    </body>
+</html>

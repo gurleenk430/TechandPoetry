@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>Comic Market 87 Cosplay</title>
+       <style>
+       html{
+           font-family: serif, sans-serif;
+       }
+       #weblogo{
+           position: fixed;
+           top: 0px;
+           left: 0px;
+       }
+       #mainhead{
+           background-color: #CABABB;
+               padding-left: 50px; 
+               padding-top: 9px;
+               padding-bottom: 12px; 
+               padding: 9px 0 18px 50px;
+               text-align:center;
+               width:100%;
+           
+       }
+        p.amain { 
+                text-decoration: none;
+                padding: 20px;
+                color: white;
+                text-transform: uppercase;
+            } 
+            
+        p.amain:hover { 
+            color: gold;
+            background-color: black;
+        }
+       .header{
+           display: inline;
+           font-size: 20px;
+           padding: 3px;
+           margin: 5px;
+           border: solid black;
+           font-family: "Times New Roman", Times, sans-serif;
+           text-align: center;
+           
+       }
+       body{
+           text-align: center;
+          background-color: #6B6B76;
+       }
+       aside{
+           float: right;
+           border: dotted silver;
+           margin: 25px;
+           width: 130px;
+       }
+       
+    #title {
+        text-align:center;
+        padding-left:385;
+        font-size:24px;
+        font-style: italic;
+        font-family: vladimir script;
+        
+    }
+    #flagpic{
+        float: left;
+        padding: 10px;
+    }
+    p.content{
+        font-size: 20px;
+        position: relative;
+        left: 450px;
+        text-align: center;
+        width: 50%;
+    }
+    a.wiki{
+        color: blue;
+        
+    }
+    #google_translate_element{
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        background-color: cyan;
+    }
+    footer{
+        position: relative;
+        top: 300px;
+        text-align: center;
+        background: black 100%;
+        color: white;
+    }
+           
+       </style>
+       <meta name="google-translate-customization" content="181e54360b6873b3-15ad047586178c36-g4910705d4242403c-35">
+    </head>
+    <body>
+    <div id="title"><h1>From Literature To <strong>CODE.</strong>
+        <br />
+        by Joshua Lee and Gurleen Kaur
+        </h1>
+        </div>
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+    <img src="http://fc08.deviantart.net/fs70/f/2010/065/5/9/Neo_Zeon_UC0096_by_DisAstranagant.png" width="90" height="70" id="weblogo" alt="Neo Zeon Logo from Gundam"/> 
+        <header id="mainhead">
+         <p class="amain">Cue the lines!</p>
+        </header>
+        <aside>
+            <p>Inspirational Articles</p>
+            <h4><a href="https://campustechnology.com/articles/2013/12/03/is-tech-changing-the-way-students-write.aspx">
+            <img src="http://lh3.ggpht.com/-nsGfO7iCWlc/VPMYcZlHxsI/AAAAAAAAIPs/Lqd_xGLb6n8/book-and-pen.jpg?imgmax=0" width="100px" height="100px"/>
+            <br />
+            Cool Article #1
+            </a></h4>
+            
+            <h4><a href="https://otakumode.com/shop/540e5a5514eb073547d2b4e4">
+            <img src="http://lh3.ggpht.com/-nsGfO7iCWlc/VPMYcZlHxsI/AAAAAAAAIPs/Lqd_xGLb6n8/book-and-pen.jpg?imgmax=0" width="100px" height="100px"/>
+            <br />
+            Cool Article #2
+            </a></h4>
+             
+             <h4><a href="https://otakumode.com/shop/54acdd098a1c7cf942fd4fe7">
+            <img src="http://lh3.ggpht.com/-nsGfO7iCWlc/VPMYcZlHxsI/AAAAAAAAIPs/Lqd_xGLb6n8/book-and-pen.jpg?imgmax=0" width="100px" height="100px"/>
+            <br />
+            Cool Article #3
+            </a></h4>
+        </aside>
+        <br />
+        <br />
+        <br />
+     
+         
+        <h1 style="color:black; font-size: 45px">~We heard you liked literature~</h1>
+        <br />
+        <br />
+        <br />
+      <h5 style= "color: white; font-size: 25px">"It Don't Mean a Thing If It Ain't Got That Java" </h5>
+      </br>
+  
+      
+<button onclick="doAllthese()">Click me</button>
+  <script>
+function doAllthese() {
+One();
+Two();
+Three();
+Four();
+Five();
+Six();
+Seven();
+Eight();
+Nine();
+Ten();
+Eleven();
+Twelve();
+}
+</script>
+
+  <h3 style= "color: white;"><p id="line1"></p> </h3>
+ <h3 style= "color: white;"><p id="line2"></p> </h3>
+  <h3 style= "color: white;"><p id="line3"></p> </h3>
+  <h3 style= "color: white;"><p id="line4"></p> </h3>
+  <h3 style= "color: white;"><p id="line5"></p> </h3>
+  <h3 style= "color: white;"><p id="line6"></p> </h3>
+  <h3 style= "color: white;"><p id="line7"></p> </h3>
+  <h3 style= "color: white;"><p id="line8"></p> </h3>
+  <h3 style= "color: white;"><p id="line9"></p> </h3>
+  <h3 style= "color: white;"><p id="line10"></p> </h3>
+  <h3 style= "color: white;"><p id="line11"></p> </h3>
+  <h3 style= "color: white;"><p id="line12"></p> </h3>
+ 
+      
+
+<script>
+function One() {
+    document.getElementById("line1").innerHTML = "It don't mean a thing if it ain't got that Java,"
+}
+</script>
+  
+  <script>
+    function Two() {
+    document.getElementById("line2").innerHTML = "Put a little swing on it.";
+    }
+</script>
+  
+  <script>
+    function Three(){
+    document.getElementById("line3").innerHTML = "Weave the mind out onto paper,";
+    }
+</script>
+  
+  <script>
+    function Four(){
+    document.getElementById("line4").innerHTML = "But hit it with a couple of them 1s and 0s,";
+    }
+</script>
+  
+  <script>
+    function Five(){
+    document.getElementById("line5").innerHTML = "Yea mark it up nice and good,";
+    }
+</script>
+  
+  <script>
+    function Six(){
+    document.getElementById("line6").innerHTML = "Now that's some superb Java!";
+    }
+</script>
+  
+  <script>
+    function Seven(){
+    document.getElementById("line7").innerHTML = "Mr. Turing himself can't outtype what we cooking over here,";
+    }
+</script>
+  
+  <script>
+    function Eight(){
+    document.getElementById("line8").innerHTML = "We got that Java fresher than that River Dancing.";
+    }
+</script>
+  
+  <script>
+    function Nine(){
+    document.getElementById("line9").innerHTML = "Nononon my dear,";
+    }
+</script>
+  
+  <script>
+    function Ten(){
+    document.getElementById("line10").innerHTML = "Them few lines ain't enough,";
+    }
+</script>
+  
+  <script>
+    function Eleven(){
+    document.getElementById("line11").innerHTML = "It don't mean a thing if it ain't got that Java";
+    }
+</script>
+  
+  <script>
+    function Twelve(){
+    document.getElementById("line12").innerHTML = "So let's spice it up a bit.";
+    }
+</script>
+ 
+      <br>
+  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+        <p class="content"></p>
+  
+        <iframe width="60%" height="350" scrolling="no" style="border:solid black; border-width:15px " src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221099243&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+   
+       <br>
+       <br>
+  <br>
+  <br>
+  <p> <h2 style= "color: white;"> <a href= "https://earsketch.gatech.edu/earsketch2/"> Some EarSketch Maybe? </p>
+        <footer>
+            <h5>
+            Copyright 2016
+            <br />
+            BASE
+            <br />
+            Mr. Lee claims ownership of only the article text itself, but NOTHING else!
+            </h5>
+        </footer>
+    </body>
+</html>
